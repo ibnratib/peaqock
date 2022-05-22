@@ -1,0 +1,1 @@
+web: gunicorn peaqock.wsgi --log-file -
